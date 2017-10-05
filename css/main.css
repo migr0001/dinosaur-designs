@@ -1,4 +1,26 @@
 html {
+  background-color: #f2f1ed;
+  font-family: Georgia, serif;
+  line-height: 1.5;
+}
 
-  background-color: limegreen;
+h2 {
+  color: #5d8432;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+ol {
+  color: #793284;
+  font-weight: bold;
+  font-size: 1.125rem
+}
+
+image src {
+  width: 100%;
+}
+
+p {
+  font-style: italic;
+  text-align: center;
 }
