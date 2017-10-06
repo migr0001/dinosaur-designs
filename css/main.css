@@ -27,8 +27,12 @@ img {
 }
 
 figcaption {
-  width: 100%;
   font-style: italic;
   text-align: center;
-  font-size: 1rem;
+  font-size: 100%;
+}
+
+p {
+  font-size: 75%;
+  font-style: italic;
 }
