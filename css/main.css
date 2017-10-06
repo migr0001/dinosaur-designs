@@ -8,25 +8,27 @@ h2 {
   color: #5d8432;
   text-transform: uppercase;
   font-weight: bold;
-  font-family: 'Patua One', bold;
+  font-family: "Patua One", bold;
 }
 
 a {
   text-decoration: none;
   color: #793284;
   font-weight: bold;
-  font-size: 1.125rem
+  font-size: 1.125rem;
 }
 
 a:hover {
-  color: #b42885
+  color: #b42885;
 }
 
-image src {
+img {
   width: 100%;
 }
 
-p {
+figcaption {
+  width: 100%;
   font-style: italic;
   text-align: center;
+  font-size: 1rem;
 }
